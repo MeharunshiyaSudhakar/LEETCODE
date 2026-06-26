@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MeharunshiyaSudhakar/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/MeharunshiyaSudhakar/LEETCODE/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MeharunshiyaSudhakar/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeharunshiyaSudhakar/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/MeharunshiyaSudhakar/LEETCODE/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/MeharunshiyaSudhakar/LEETCODE/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
